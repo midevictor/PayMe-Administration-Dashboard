@@ -718,6 +718,9 @@ main .recent-transactions .transaction .card-details .card {
     nav .profile span {
         display: none;
     }
+    main section.middle {
+        margin-top: 4rem;
+    }
     main section.middle .cards {
         grid-template-columns: 1fr;
     }
